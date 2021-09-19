@@ -1,0 +1,57 @@
+.navbar{
+	background-color: #184755;
+}
+
+.img{
+	border-radius: 50%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.parallax{
+  background-image: url(code.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#img-m{
+	float: left;
+	width: 30%;
+}
+
+.navbar-nav  li a:hover {
+    color: #277ce6 !important;
+  }
+
+.navco {
+	background-color: #184755;
+}
+
+
+#home p:hover {
+    color: #53eee6 !important;
+}
+
+
+.container-fluid img{
+    margin-right: 30px;
+}
+
+.bg-gb{
+  background-color: #184755;
+}
+
+.abc a {
+	color: white;
+	text-decoration: none;
+}
+
+#te:hover{
+	color: limegreen;
+}
+
+.abc a:hover{
+	color: limegreen;
+}
